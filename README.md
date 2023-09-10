@@ -1,0 +1,1 @@
+Training model on mnist dataset then using it to recognize digit [0-9] , using pygame a writing terminal is created for user input then predicting using the model and showing the result
